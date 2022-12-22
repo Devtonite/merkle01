@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { merkleContract } from './merkle.js';
 
-export { Add };
+export { merkleContract };
